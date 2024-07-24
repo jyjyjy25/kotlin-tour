@@ -28,5 +28,10 @@ fun main() {
 
     var lesson6 = L6Classes()
     lesson6.main()
+
+    println()
+
+    var lesson7 = L7NullSafety()
+    lesson7.main()
 }
 
