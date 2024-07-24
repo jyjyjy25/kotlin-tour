@@ -13,5 +13,10 @@ fun main() {
 
     var lesson3 = L3Collections()
     lesson3.main()
+
+    println()
+
+    var lesson4 = L4ControlFlow()
+    lesson4.main()
 }
 
