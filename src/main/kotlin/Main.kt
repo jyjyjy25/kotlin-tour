@@ -8,5 +8,10 @@ fun main() {
 
     var lesson2 = L2BasicTypes()
     lesson2.main()
+
+    println()
+
+    var lesson3 = L3Collections()
+    lesson3.main()
 }
 
