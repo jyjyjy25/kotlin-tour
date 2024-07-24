@@ -18,5 +18,10 @@ fun main() {
 
     var lesson4 = L4ControlFlow()
     lesson4.main()
+
+    println()
+
+    var lesson5 = L5Functions()
+    lesson5.main()
 }
 
