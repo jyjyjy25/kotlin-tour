@@ -23,5 +23,10 @@ fun main() {
 
     var lesson5 = L5Functions()
     lesson5.main()
+
+    println()
+
+    var lesson6 = L6Classes()
+    lesson6.main()
 }
 
